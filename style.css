@@ -1,0 +1,9 @@
+/* Styles go here */
+#chart {
+  background-color: #e3f2fd;
+}
+
+.bar {
+  fill: #ff8a80;
+  shape-rendering: crispyEdges;
+}
